@@ -9,6 +9,7 @@ This project implements a function to merge three sorted arrays without using an
 ```bash
 git clone <https://github.com/Kanyaratp29/TypeScript-UnitTest>
 cd TypeScript-UnitTest
+```
 
 2. Install dependencies:
 
