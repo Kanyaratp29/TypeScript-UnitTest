@@ -26,6 +26,8 @@ const arr3 = [6, 4, 2];
 const result = merge(arr1, arr2, arr3);
 console.log(result); // Output: [6, 6, 5, 4, 4, 3, 2, 2, 1]
 
+```
+
 ## Running test
 
 npm test
