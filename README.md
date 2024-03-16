@@ -1,4 +1,4 @@
-# Merge Sort
+# Sorting
 
 This project implements a function to merge three sorted arrays without using any sorting function.
 
